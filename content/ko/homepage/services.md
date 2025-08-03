@@ -14,5 +14,5 @@ header_menu: true
 
 현재는 “브릿지” 비영리 단체의 대표이며 국제인터서브의 NEAR팀 멤버 중 한명으로 한반도의 화해와 협력 및 평화통일을 준비하고 있습니다. 
 
-![](images/sign.jpg)
+![](images/sign.png)
 ---
